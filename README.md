@@ -1,2 +1,0 @@
-# youtube.username.checker
-prototype
